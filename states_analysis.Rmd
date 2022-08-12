@@ -1,0 +1,19 @@
+---
+title: "States"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+```
+
+```{r}
+read_rds("plot_2.rds") 
+```
+
+
+
+
+
+

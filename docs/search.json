@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Welcome to the website!",
+      "author": [],
+      "contents": "\nAbout Me\nI’m going to just use something I wrote in a tutorial a few days ago\nas my introduction for now. Hello! My name is Rachel\nHeiss, and I’m a home schooled sophomore in high school. I’m\ncurrently in Kane’s Free High\nSchool Data Science Bootcamp, which is why I’m making this practice\nwebsite. I have five younger siblings and live near Atlanta, Georgia. I\nenjoy reading, writing, baking, Marvel movies, and listening to\nmusicals, podcasts, and Taylor Swift.\nContact Me\nEmail: rachelheiss@gmail.com\nGitHub: rachelheiss\n\n\n\n",
+      "last_modified": "2022-08-11T21:20:20-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Economic Connectedness",
+      "description": "This website is practice for my final project. There are just two graphs on here, and they examine the relationship between economic connectedness and population.\n",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n",
+      "last_modified": "2022-08-11T21:20:21-04:00"
+    },
+    {
+      "path": "states_analysis.html",
+      "title": "States",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n",
+      "last_modified": "2022-08-11T21:20:22-04:00"
+    }
+  ],
+  "collections": []
+}

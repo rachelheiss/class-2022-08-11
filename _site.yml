@@ -1,4 +1,4 @@
-name: "."
+name: "Rachel Heiss"
 title: "Economic Connectedness"
 description: |
   Economic Connectedness
@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "States"
+      href: states_analysis.html
 output: distill::distill_article
